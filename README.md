@@ -34,7 +34,7 @@ See [`docs/ts0601.md`](docs/ts0601.md) for datapoint details, mapping, and recom
 
 ## Contributing
 
-Feedback and PRs for other Tuya/Zigbee devices are welcome — open an issue on [this repo](https://github.com/forgelab-me/zigbee-quirks).
+Feedback and PRs for other Tuya/Zigbee devices are welcome — open an issue on [this repo](https://github.com/forgelab-me/zha-custom-quirks).
 
 ## License
 
